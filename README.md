@@ -1,0 +1,1 @@
+The project is done as a Java Terminal Program. Desktop Notify is the main project. Others are included libraries imported as User Projects. 
